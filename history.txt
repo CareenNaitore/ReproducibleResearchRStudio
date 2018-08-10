@@ -1,0 +1,21 @@
+    1  R
+    2  cat /home/user/.sudo_as_admin_successful 
+    3  sudo shutdown -h now
+    4  git status 
+    5  less git ignore
+    6  lessgitignore
+    7  less .gitignore 
+    8  git add ReproducibleResearchRStudio.Rproj 
+    9  git status 
+   10  git commit -m "Add Rproject and gitmore"
+   11  git config --global careennaitore@gmail.com 
+   12  git config --global user.email  careennaitore@gmail.com 
+   13  git config --global user.name CareenNaitore
+   14  git commit -m "Add Rproject and gitmore"
+   15  git status 
+   16  git add .
+   17  git status 
+   18  git commit -m "Add Rproject and gitmore"
+   19  git push origin master 
+   20  hstory > history.txt 
+   21  history >history.txt
